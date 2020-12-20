@@ -1,9 +1,10 @@
 {
     "database": {
-        "host": "<host>",
+        "username": "cure@FCPostgres",
+        "password": "Fatih123*",
+        "host": "fcpostgres.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "<username>",
-        "password": "<password>",
         "ssl": "require"
     }
 }
