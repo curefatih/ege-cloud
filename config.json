@@ -4,7 +4,7 @@
         "password": "Fatih123*",
         "host": "fcpostgres.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "<username>",
+        "user": "cure@fcpostgres",
         "ssl": "require"
     }
 }
